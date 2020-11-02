@@ -9,7 +9,7 @@ echo "    <meta charset=\"UTF-8\"/>";
 echo "    <title>Hello World!</title>";
 echo "  </head>";
 echo "  <body>";
-echo "    <h3>Hello World!<h3>";
+echo "    <h1>Hello World!<h1>";
 echo "  </body>";
 echo "</html>";
 
