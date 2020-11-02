@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
-=======
-db.php
->>>>>>> 4d229a7bd4efbea84801c3e0a6b2a28a21956016
