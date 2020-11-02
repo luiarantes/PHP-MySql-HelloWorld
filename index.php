@@ -1,6 +1,6 @@
 <?php 
 
-mysqli_connect("db", "root", "mysql.rootp4ss") or die(mysqli_error()); 
+mysqli_connect("db", "mysql-inst-01.c973bu7odyi3.us-east-1.rds.amazonaws.com", "mysql.rootp4ss") or die(mysqli_error()); 
 
 echo "<!DOCTYPE html>";
 echo "<html>";
