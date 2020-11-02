@@ -20,7 +20,7 @@ echo "  </head>\n";
 echo "  <body>\n";
 
 # Consulta tabela e exibe resultado
-$sql = "SELECT * FROM tabela2 WHERE id =1";
+$sql = "SELECT * FROM tabela WHERE id =1";
 $result = mysqli_query($conn, $sql);
 
 if (mysqli_num_rows($result) > 0) {
