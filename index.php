@@ -1,6 +1,6 @@
 <?php 
 
-mysqli_connect("db", "root", "mysql.rootp4ss") or die(mysqli_error()); 
+include 'db.php';
 
 echo "<!DOCTYPE html>";
 echo "<html>";
